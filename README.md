@@ -1,0 +1,1 @@
+# wasmer-rust-embed-wasm
